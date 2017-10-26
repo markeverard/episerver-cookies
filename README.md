@@ -5,7 +5,7 @@ This repository contains a description of cookies that are used by the [Episerve
 _Please feel free to send a pull request to add  further cookies from other Episerver components_
 
 
-| Episerver component | Cookie name | Category | Lifetime | Purpose / Description | 
+|  Cookie name | Episerver component | Category | Lifetime | Purpose / Description | 
 | ------------------- | ----------- | -------- | -------- |---------------------- |
 | ASP.NET_SessionId | [ASP.NET framework](http://www.asp.net) | Strictly Necessary | Session | This cookie is required to identify requests from the same browser during a limited session time window when browsing the website. This cookie is deleted when you close your browser. |
 | EPi:NumberOfVisits | [EPiServer.CMS.Core](http://nuget.episerver.com/en/OtherPages/Package/?packageId=EPiServer.CMS.Core) | Functionality | Persistant (1 year from creation) | This cookie is only used when using the Visitor Group 'Number of Visits' criteria. It is used to store what the number of times you access pages on the site. It allows personalisation of content based on the frequency you have viewed content on the site. |
