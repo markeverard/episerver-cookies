@@ -1,7 +1,7 @@
 # episerver-cookies
 This repository contains a description of cookies that are used by the [Episerver platform](http://www.episerver.com/about/privacy/trust-center/)
 
-Please feel free to send a pull request to add any further cookies from other Episerver components
+_Please feel free to send a pull request to add  further cookies from other Episerver components_
 
 
 | Episerver component | Cookie name | Category | Lifetime | Purpose / Description | 
